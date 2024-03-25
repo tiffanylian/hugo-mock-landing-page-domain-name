@@ -1,7 +1,7 @@
 baseURL = 'https://scribblescan.online/'
 title = "ScribbleScan"
 author = "Tiffany Lian"
-copyright = "Tiffany Lian" 
+copyright = "Tiffany Lian"
 
 timeZone = 'Europe/London'
 
